@@ -1,3 +1,5 @@
+package PackageFigury;
+
 public class Figura2 {
     public static void main(String[] args) {
 
